@@ -1,9 +1,4 @@
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<h1 align="center">Hi, I'm Shvetank Tiwari 👋</h1>
+<h1 align="center">Hi, I'm Shvetank Tiwari 👋</h1>
 
 <p align="center">
 Electrical & Electronics Engineering Undergraduate at <b>VIT Chennai</b><br>
@@ -32,36 +27,24 @@ Currently exploring simulation-driven engineering using MATLAB, ANSYS, Motor-CAD
 ## 💻 Tech Stack
 
 ### Languages
-
-Python • Java • C • Embedded C • R
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Engineering Tools
 
-MATLAB
-
-Simulink
-
-ANSYS RMxprt
-
-Maxwell 3D
-
-Motor-CAD
-
-LTspice
-
-Proteus
-
-KiCad
-
-PVsyst
-
-SAM
-
-Arduino
-
-AWS
-
-Git
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge)
+![Motor--CAD](https://img.shields.io/badge/Motor--CAD-2C3E50?style=for-the-badge)
+![LTspice](https://img.shields.io/badge/LTspice-A00000?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge)
+![Keil](https://img.shields.io/badge/Keil_uVision-3949AB?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
