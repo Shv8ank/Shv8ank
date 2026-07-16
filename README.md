@@ -46,6 +46,16 @@ Currently exploring simulation-driven engineering using MATLAB, ANSYS, Motor-CAD
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### Domains
+
+![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-1565C0?style=for-the-badge)
+![Renewable Energy](https://img.shields.io/badge/Renewable%20Energy-2E7D32?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-6A1B9A?style=for-the-badge)
+![Power Electronics](https://img.shields.io/badge/Power%20Electronics-D84315?style=for-the-badge)
+![Electric Drives](https://img.shields.io/badge/Electric%20Drives-00897B?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-546E7A?style=for-the-badge)
+
+
 ---
 
 ## 📌 Featured Projects
@@ -53,14 +63,4 @@ Currently exploring simulation-driven engineering using MATLAB, ANSYS, Motor-CAD
 ⚡ BLDC Hub Motor Design
 ☀ MPPT Algorithm for Solar PV Systems
 🔋 Digital DC Voltmeter & Ammeter
-
----
-
-## 📜 Experience
-
-🏭 Industrial Automation Intern
-Aligned Automation Services Pvt. Ltd.
-
-📢 Director of Public Relations
-ACM Student Chapter, VIT Chennai
 
