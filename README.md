@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Shvetank Tiwari 👋</h1>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<h1 align="center">Hi, I'm Shvetank Tiwari 👋</h1>
 
 <p align="center">
 Electrical & Electronics Engineering Undergraduate at <b>VIT Chennai</b><br>
@@ -76,10 +81,3 @@ Aligned Automation Services Pvt. Ltd.
 📢 Director of Public Relations
 ACM Student Chapter, VIT Chennai
 
----
-
-## 🌐 Connect
-
-LinkedIn
-
-Email
