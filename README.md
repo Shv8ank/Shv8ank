@@ -64,3 +64,7 @@ Currently exploring simulation-driven engineering using MATLAB, ANSYS, Motor-CAD
 ☀ MPPT Algorithm for Solar PV Systems
 🔋 Digital DC Voltmeter & Ammeter
 
+## 📫 Connect with Me
+
+📧 **Email:** [shv8ank@gmail.com](mailto:shv8ank@gmail.com)
+💼 **LinkedIn:** [Shvetank Tiwari](https://www.linkedin.com/in/shvetank-tiwari-2777a7215/)
