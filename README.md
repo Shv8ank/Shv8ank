@@ -1,70 +1,169 @@
-<h1 align="center">Hi, I'm Shvetank Tiwari 👋</h1>
+# <h1 align="center">Hi, I'm Shvetank Tiwari 👋</h1>
 
 <p align="center">
-Electrical & Electronics Engineering Undergraduate at <b>VIT Chennai</b><br>
-Industrial Automation • Renewable Energy • Embedded Systems • Electric Vehicles • AI
+  <b>Electrical & Electronics Engineering Undergraduate at VIT Chennai</b>
+  <br><br>
+  Building engineering software for electric vehicles, renewable energy, industrial automation, and embedded systems.
+</p>
+
+<p align="center">
+  <a href="mailto:shv8ank@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/shvetank-tiwari-2777a7215/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm passionate about designing intelligent engineering systems that combine hardware, software, and automation.
+I'm an Electrical & Electronics Engineering undergraduate passionate about building software that solves real engineering problems.
 
-My interests include:
+Rather than developing software for software's sake, I enjoy creating applications that electrical engineers can actually use... whether that's analysing battery performance, simulating electric vehicle systems, or automating engineering workflows.
 
-- Electric Vehicles
-- Renewable Energy
-- AI for Energy Systems
-- Embedded Systems
-- Industrial Automation
-- Data Analytics
-
-Currently exploring simulation-driven engineering using MATLAB, ANSYS, Motor-CAD, and Python.
+My goal is to bridge the gap between **electrical engineering** and **modern software development**, combining analytical thinking with clean architecture, intuitive interfaces, and maintainable code.
 
 ---
 
-## 💻 Tech Stack
+## ⚡ What I'm Working On
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+* 🔋 Engineering software using Python
+* ⚙️ Industrial Automation
+* 🚗 Electric Vehicle Technologies
+* ☀️ Renewable Energy Systems
+* 📊 Engineering Data Analytics
+* 🖥️ Simulation-Driven Engineering
 
-### Engineering Tools
+---
 
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+# 💻 Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+
+**Also familiar with**
+
+* Embedded C
+* R
+
+---
+
+## Engineering Software
+
+<p>
+
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge\&logo=mathworks\&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge)
 ![Motor--CAD](https://img.shields.io/badge/Motor--CAD-2C3E50?style=for-the-badge)
 ![LTspice](https://img.shields.io/badge/LTspice-A00000?style=for-the-badge)
-![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge\&logo=kicad\&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge)
 ![Keil](https://img.shields.io/badge/Keil_uVision-3949AB?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Domains
-
-![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-1565C0?style=for-the-badge)
-![Renewable Energy](https://img.shields.io/badge/Renewable%20Energy-2E7D32?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-6A1B9A?style=for-the-badge)
-![Power Electronics](https://img.shields.io/badge/Power%20Electronics-D84315?style=for-the-badge)
-![Electric Drives](https://img.shields.io/badge/Electric%20Drives-00897B?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-546E7A?style=for-the-badge)
-
+</p>
 
 ---
 
-## 📌 Featured Projects
+## Scientific Computing
 
-⚡ BLDC Hub Motor Design
-☀ MPPT Algorithm for Solar PV Systems
-🔋 Digital DC Voltmeter & Ammeter
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-## 📫 Connect with Me
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
-📧 **Email:** [shv8ank@gmail.com](mailto:shv8ank@gmail.com)
-💼 **LinkedIn:** [Shvetank Tiwari](https://www.linkedin.com/in/shvetank-tiwari-2777a7215/)
+---
+
+# 📌 Featured Projects
+
+## 🚗 EV Hub Motor Performance Simulator
+
+A professional engineering application for analysing electric vehicle hub motors.
+
+### Features
+
+* Torque-Speed Analysis
+* Power-Speed Analysis
+* Vehicle Dynamics
+* Battery Configuration
+* Multiple Motor Presets
+* Interactive Engineering Graphs
+* Professional Dashboard
+
+---
+
+## 🔋 Battery SoC Estimator
+
+Interactive battery analysis software supporting multiple battery chemistries.
+
+### Features
+
+* Lithium-ion
+* LiFePO₄
+* Lead Acid
+* Voltage → SoC Estimation
+* CSV Upload
+* Interactive Charts
+* Engineering Statistics
+
+---
+
+## ☀️ MPPT Algorithm for Solar PV Systems
+
+MATLAB/Simulink implementation of Maximum Power Point Tracking algorithms for photovoltaic systems.
+
+---
+
+# 🎯 Areas of Interest
+
+* Electric Vehicles
+* Renewable Energy
+* Industrial Automation
+* Power Electronics
+* Embedded Systems
+* Engineering Simulation
+* Energy Analytics
+* Intelligent Engineering Software
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shv8ank&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shv8ank&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:shv8ank@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shvetank-tiwari-2777a7215/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+*"Engineering isn't just about solving equations, it's about building tools that solve real-world problems."*
+
+</p>
