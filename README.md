@@ -14,7 +14,7 @@ I build engineering software for power systems, electric vehicles, renewable ene
 
 I am an Electrical & Electronics Engineering undergraduate at **VIT Chennai** focused on building software that solves real engineering problems.
 
-Rather than developing software for software's sake, I enjoy creating applications that engineers can actually use—whether that's analysing battery performance, simulating electric vehicle systems, or developing tools for power engineering.
+Rather than developing software for software's sake, I enjoy creating applications that engineers can actually use. Whether that's analysing battery performance, simulating electric vehicle systems, or developing tools for power engineering.
 
 My goal is to combine engineering principles with modern software development to create software that is reliable, intuitive and built for real-world use.
 
@@ -34,9 +34,15 @@ Professional engineering software for analysing electric vehicle hub motors.
 - Battery Configuration
 - Interactive Engineering Graphs
 
-**Tech Stack**
+**Built With**
 
-Python • Streamlit • Plotly • NumPy • Pandas
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 **Repository**
 
@@ -61,13 +67,19 @@ Battery analysis software supporting multiple battery chemistries.
 - CSV Analysis
 - Interactive Charts
 
-**Tech Stack**
+**Built With**
 
-Python • Streamlit • NumPy • Pandas • Matplotlib
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
 
 **Repository**
 
-https://github.com/Shv8ank/Battery-SOC-Estimator
+> https://github.com/Shv8ank/Battery-SOC-Estimator
 
 **Live Demo**
 
@@ -79,9 +91,16 @@ https://battery-soc-estimator.streamlit.app
 
 MATLAB/Simulink implementation of Maximum Power Point Tracking algorithms for photovoltaic systems.
 
-**Tech Stack**
+**Built With**
 
-MATLAB • Simulink
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge"/>
+</p>
+
+**Repository**
+
+> https://github.com/Shv8ank/MPPT-Algorithm-PV.git
 
 ---
 
@@ -149,3 +168,4 @@ MATLAB • Simulink
 Building Professional Engineering Software.
 
 </p>
+```
