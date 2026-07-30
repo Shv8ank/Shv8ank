@@ -168,4 +168,3 @@ MATLAB/Simulink implementation of Maximum Power Point Tracking algorithms for ph
 Building Professional Engineering Software.
 
 </p>
-```
